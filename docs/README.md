@@ -6,3 +6,7 @@ Static interactive dashboards for the AI + hardware HCI literature review.
 - `reading_matrix.html`: searchable paper-by-paper reading matrix.
 
 These pages are generated from the local research corpus in `/Users/scottli/Documents/New project 3`.
+
+Published site:
+
+https://lizuoqiu.github.io/AI-Hardware-Literature/

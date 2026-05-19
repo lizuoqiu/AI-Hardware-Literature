@@ -9,9 +9,14 @@ The public-facing dashboard files live in `docs/` so this repository can be serv
 - Citation and continuity dashboard: `docs/citation_continuity_dashboard.html`
 - Paper reading matrix: `docs/reading_matrix.html`
 
-For GitHub Pages, set the source to the `main` branch and `/docs` folder. The expected Pages URL is:
+Published GitHub Pages URL:
 
 `https://lizuoqiu.github.io/AI-Hardware-Literature/`
+
+Direct links:
+
+- Citation and continuity dashboard: `https://lizuoqiu.github.io/AI-Hardware-Literature/citation_continuity_dashboard.html`
+- Paper reading matrix: `https://lizuoqiu.github.io/AI-Hardware-Literature/reading_matrix.html`
 
 Default scope for this run:
 
